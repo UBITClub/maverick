@@ -1,0 +1,9 @@
+{
+    "API_BASE": "/api/v0/",
+    "API_VERSION": "v0.1",
+    "RS": "ALPHA",
+    "BRANCH": "main",
+    "port": 8080,
+    "mongoURI": "",
+    "mongoURI.dev": "mongodb://localhost:27017/iris"
+}
